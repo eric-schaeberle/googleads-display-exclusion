@@ -17,10 +17,10 @@ Optionale Überprüfung pausierter Kampagnen zur Verbesserung der zukünftigen K
 
 ## Konfiguration
 Vor der Nutzung des Skripts sind einige Konfigurationen erforderlich:
-Google Sheet URL: Die URL des Google Sheets, das die erlaubten Domains und Kanäle enthält.
-Tabellenname: Der Name des Tabs im Google Sheet, falls geändert.
-Mindestwerte: Definieren Sie die Mindestwerte für Impressions, CTR, Konversionen und CPC.
-Berichtszeitraum: Wählen Sie den gewünschten Berichtszeitraum aus den verfügbaren Optionen.
+- Google Sheet URL: Die URL des Google Sheets, das die erlaubten Domains und Kanäle enthält.
+- Tabellenname: Der Name des Tabs im Google Sheet, falls geändert.
+- Mindestwerte: Definieren Sie die Mindestwerte für Impressions, CTR, Konversionen und CPC.
+- Berichtszeitraum: Wählen Sie den gewünschten Berichtszeitraum aus den verfügbaren Optionen.
 
 ```javascript
 var spreadsheetUrl =
